@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
                 "me.jvt.cucumber.report.PrettyReports:target/cucumber"
         },
         features = "src/test/resources/feautures" ,
-        glue = "com/cydeo/step_definitions2" ,
+        glue = "com/webstaurantstore/step_definitions" ,
         dryRun = false,
         tags = "@wip",
         publish = true
@@ -21,3 +21,4 @@ import org.junit.runner.RunWith;
 public class CukesRunner {
 
 }
+

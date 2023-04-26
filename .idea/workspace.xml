@@ -5,23 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70e55f3d-1524-452a-a1c1-9426a110c697" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/runner/CukesRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/utilities/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/utilities/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/basic_search.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/pages/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/pages/CartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/runner/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/runner/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/feautures/basic_search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/feautures/basic_search.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/webstaurantstore/runner/CukesRunner.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -35,14 +46,123 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="JUnit.CukesRunner">
+    <configuration name="Scenario: Search for 'stainless work table' and add last item to cart (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feautures/basic_search.feature" />
+      <option name="GLUE" value="com.webstaurantstore.step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="WebstaurantStore" />
+      <option name="NAME_FILTER" value="^Search for \'stainless work table\' and add last item to cart$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Search for \'stainless work table\' and add last item to cart$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Search for 'stainless work table' and add last item to cart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Search for 'stainless work table' and add last item to cart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/basic_search.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="WebstaurantStore" />
+      <option name="NAME_FILTER" value="^Search for \'stainless work table\' and add last item to cart$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Search for \'stainless work table\' and add last item to cart$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Search for 'stainless work table' and add last item to cart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Search for 'stainless work table', add last item to cart, empty cart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feautures/basic_search.feature" />
+      <option name="GLUE" value="com.webstaurantstore.step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="WebstaurantStore" />
+      <option name="NAME_FILTER" value="^Search for \'stainless work table\'\, add last item to cart\, empty cart$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Search for \'stainless work table\'\, add last item to cart\, empty cart$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Search for 'stainless work table', add last item to cart, empty cart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: one" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/feautures/one.feature" />
+      <option name="GLUE" value="com.webstaurantstore.step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="WebstaurantStore" />
+      <option name="NAME_FILTER" value="^one$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^one$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: one" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebstaurantStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.webstaurantstore.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.webstaurantstore.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.webstaurantstore.runner.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Search for 'stainless work table', add last item to cart, empty cart" />
+        <item itemvalue="Cucumber Java.Scenario: Search for 'stainless work table' and add last item to cart (1)" />
+        <item itemvalue="Cucumber Java.Scenario: one" />
+        <item itemvalue="Cucumber Java.Scenario: Search for 'stainless work table' and add last item to cart" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,8 +171,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682433952682</updated>
-      <workItem from="1682433954449" duration="1000" />
+      <workItem from="1682433954449" duration="248000" />
+      <workItem from="1682434215995" duration="382000" />
+      <workItem from="1682434765089" duration="255000" />
+      <workItem from="1682435073052" duration="143000" />
+      <workItem from="1682435251643" duration="295000" />
+      <workItem from="1682435585708" duration="171000" />
+      <workItem from="1682435780333" duration="61000" />
+      <workItem from="1682435872180" duration="915000" />
+      <workItem from="1682437432803" duration="379000" />
+      <workItem from="1682437874080" duration="325000" />
+      <workItem from="1682438977008" duration="33000" />
+      <workItem from="1682439027791" duration="12000" />
+      <workItem from="1682439053599" duration="10000" />
+      <workItem from="1682439074233" duration="16000" />
+      <workItem from="1682439104821" duration="16000" />
+      <workItem from="1682439138331" duration="41000" />
+      <workItem from="1682439196450" duration="21000" />
+      <workItem from="1682439242360" duration="24000" />
+      <workItem from="1682439284700" duration="27000" />
+      <workItem from="1682439372011" duration="15000" />
+      <workItem from="1682439439017" duration="15000" />
+      <workItem from="1682439727459" duration="13558000" />
+      <workItem from="1682459702700" duration="1990000" />
+      <workItem from="1682514870539" duration="336000" />
+      <workItem from="1682517038978" duration="3000" />
+      <workItem from="1682517255887" duration="10625000" />
+      <workItem from="1682534189708" duration="3618000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:io.cucumber:cucumber-java" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
   </component>
 </project>
