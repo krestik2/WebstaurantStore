@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70e55f3d-1524-452a-a1c1-9426a110c697" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/pages/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/pages/CartPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/runner/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/runner/CukesRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/webstaurantstore/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/feautures/basic_search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/feautures/basic_search.feature" afterDir="false" />
-    </list>
+    <list default="true" id="70e55f3d-1524-452a-a1c1-9426a110c697" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,7 +190,16 @@
       <workItem from="1682517038978" duration="3000" />
       <workItem from="1682517255887" duration="10625000" />
       <workItem from="1682534189708" duration="3618000" />
+      <workItem from="1682543377517" duration="613000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1682543502265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682543502265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,5 +208,20 @@
   <component name="UnknownFeatures">
     <option featureType="dependencySupport" implementationName="java:io.cucumber:cucumber-java" />
     <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
